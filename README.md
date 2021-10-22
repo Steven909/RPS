@@ -1,1 +1,3 @@
-# RPS
+# rock-paper-scissors
+
+Basic working initial
